@@ -1,0 +1,60 @@
+obstaclesatlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+obstacle-1
+  rotate: false
+  xy: 2, 2
+  size: 175, 674
+  orig: 175, 674
+  offset: 0, 0
+  index: -1
+obstacle-2
+  rotate: false
+  xy: 179, 2
+  size: 175, 672
+  orig: 175, 672
+  offset: 0, 0
+  index: -1
+obstacle-3
+  rotate: false
+  xy: 356, 2
+  size: 175, 672
+  orig: 175, 672
+  offset: 0, 0
+  index: -1
+obstacle-4
+  rotate: false
+  xy: 533, 2
+  size: 175, 681
+  orig: 175, 681
+  offset: 0, 0
+  index: -1
+obstacle-5
+  rotate: false
+  xy: 710, 2
+  size: 175, 674
+  orig: 175, 674
+  offset: 0, 0
+  index: -1
+obstacle-6
+  rotate: false
+  xy: 887, 2
+  size: 206, 687
+  orig: 206, 687
+  offset: 0, 0
+  index: -1
+obstacle-7
+  rotate: false
+  xy: 1095, 2
+  size: 197, 672
+  orig: 197, 672
+  offset: 0, 0
+  index: -1
+obstacle-8
+  rotate: false
+  xy: 1294, 2
+  size: 203, 672
+  orig: 203, 672
+  offset: 0, 0
+  index: -1

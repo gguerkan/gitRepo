@@ -1,0 +1,144 @@
+pinkbird.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 0, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 1
+dead
+  rotate: false
+  xy: 269, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 2
+dead
+  rotate: false
+  xy: 538, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 3
+dead
+  rotate: false
+  xy: 807, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 4
+dead
+  rotate: false
+  xy: 1076, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 5
+dead
+  rotate: false
+  xy: 1345, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 6
+dead
+  rotate: false
+  xy: 1614, 0
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 7
+dead
+  rotate: false
+  xy: 0, 285
+  size: 269, 285
+  orig: 269, 285
+  offset: 0, 0
+  index: 8
+fly
+  rotate: false
+  xy: 269, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 533, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 2
+fly
+  rotate: false
+  xy: 797, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 3
+fly
+  rotate: false
+  xy: 1061, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 4
+fly
+  rotate: false
+  xy: 1325, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 5
+fly
+  rotate: false
+  xy: 1589, 285
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 6
+fly
+  rotate: false
+  xy: 0, 570
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 7
+fly
+  rotate: false
+  xy: 264, 570
+  size: 264, 260
+  orig: 264, 260
+  offset: 0, 0
+  index: 8
+shoot
+  rotate: false
+  xy: 528, 570
+  size: 342, 246
+  orig: 342, 246
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 870, 570
+  size: 342, 246
+  orig: 342, 246
+  offset: 0, 0
+  index: 2
+shoot
+  rotate: false
+  xy: 1212, 570
+  size: 342, 246
+  orig: 342, 246
+  offset: 0, 0
+  index: 3
+shoot
+  rotate: false
+  xy: 1554, 570
+  size: 342, 246
+  orig: 342, 246
+  offset: 0, 0
+  index: 4

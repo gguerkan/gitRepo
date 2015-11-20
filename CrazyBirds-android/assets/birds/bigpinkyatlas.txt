@@ -1,0 +1,61 @@
+bigpinkyatlas.png
+size: 1585, 1561
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+bigpinky
+  rotate: false
+  xy: 1, 1
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 1
+bigpinky
+  rotate: false
+  xy: 529, 1
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 2
+bigpinky
+  rotate: false
+  xy: 1057, 1
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 3
+bigpinky
+  rotate: false
+  xy: 1, 521
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 4
+bigpinky
+  rotate: false
+  xy: 529, 521
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 5
+bigpinky
+  rotate: false
+  xy: 1057, 521
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 6
+bigpinky
+  rotate: false
+  xy: 1, 1041
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 7
+bigpinky
+  rotate: false
+  xy: 529, 1041
+  size: 527, 519
+  orig: 527, 519
+  offset: 0, 0
+  index: 8

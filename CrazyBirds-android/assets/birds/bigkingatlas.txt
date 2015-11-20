@@ -1,0 +1,61 @@
+bigkingatlas.png
+size: 1891, 1609
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+bigking
+  rotate: false
+  xy: 1, 1
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 1
+bigking
+  rotate: false
+  xy: 631, 1
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 2
+bigking
+  rotate: false
+  xy: 1261, 1
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 3
+bigking
+  rotate: false
+  xy: 1, 537
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 4
+bigking
+  rotate: false
+  xy: 631, 537
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 5
+bigking
+  rotate: false
+  xy: 1261, 537
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 6
+bigking
+  rotate: false
+  xy: 1, 1073
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 7
+bigking
+  rotate: false
+  xy: 631, 1073
+  size: 629, 535
+  orig: 629, 535
+  offset: 0, 0
+  index: 8

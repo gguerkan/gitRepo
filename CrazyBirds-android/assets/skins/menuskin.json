@@ -1,0 +1,23 @@
+{
+
+
+    "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle":{
+    
+    	"settings":{ "down":settingsc, "up":settingsn, "over":settingsh },
+    	"play":{ "down":playc, "up":playn, "over":playh },
+    	"cancel":{ "down":cancelc, "up":canceln, "over":cancelh },
+    	"music":{ "up":musicn, "checked":musicoff},
+    	"sound":{ "up":soundn, "checked":soundoff},
+        "multiplayer":{ "down":multiplayerc, "up":multiplayern, "over":multiplayerh },
+        "highscore":{ "down":highscorec, "up":highscoren, "over":highscoreh }
+        
+        
+    	
+    	}
+    	
+
+}
+
+
+
+

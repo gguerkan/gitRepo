@@ -1,0 +1,145 @@
+menuatlas.png
+size: 991, 1825
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+multiplayern
+  rotate: false
+  xy: 2, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+musicoff
+  rotate: false
+  xy: 249, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+multiplayerh
+  rotate: false
+  xy: 496, 2
+  size: 246, 245
+  orig: 246, 245
+  offset: 0, 0
+  index: -1
+playc
+  rotate: false
+  xy: 744, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+playn
+  rotate: false
+  xy: 2, 249
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+soundn
+  rotate: false
+  xy: 249, 249
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+playh
+  rotate: false
+  xy: 496, 249
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+musicn
+  rotate: false
+  xy: 743, 249
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+multiplayerc
+  rotate: false
+  xy: 2, 496
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 249, 496
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+settingsc
+  rotate: false
+  xy: 496, 496
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+settingsh
+  rotate: false
+  xy: 743, 496
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+settingsn
+  rotate: false
+  xy: 2, 744
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+highscoren
+  rotate: false
+  xy: 249, 744
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+cancelc
+  rotate: false
+  xy: 496, 744
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+highscoreh
+  rotate: false
+  xy: 743, 744
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+cancelh
+  rotate: false
+  xy: 2, 992
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+highscorec
+  rotate: false
+  xy: 250, 992
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+canceln
+  rotate: false
+  xy: 498, 992
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+backmenu
+  rotate: false
+  xy: 2, 1240
+  size: 822, 583
+  orig: 822, 583
+  offset: 0, 0
+  index: -1

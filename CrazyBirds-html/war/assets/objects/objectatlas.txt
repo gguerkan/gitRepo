@@ -1,0 +1,88 @@
+objectatlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 0, 0
+  size: 157, 79
+  orig: 157, 79
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 157, 0
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 1
+coin
+  rotate: false
+  xy: 227, 0
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: 2
+coin
+  rotate: false
+  xy: 277, 0
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: 3
+coin
+  rotate: false
+  xy: 297, 0
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: 4
+exp
+  rotate: false
+  xy: 347, 0
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 1
+exp
+  rotate: false
+  xy: 793, 0
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 2
+exp
+  rotate: false
+  xy: 0, 377
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 3
+exp
+  rotate: false
+  xy: 446, 377
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 4
+exp
+  rotate: false
+  xy: 892, 377
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 5
+money
+  rotate: false
+  xy: 0, 754
+  size: 380, 184
+  orig: 380, 184
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 380, 754
+  size: 407, 156
+  orig: 407, 156
+  offset: 0, 0
+  index: -1

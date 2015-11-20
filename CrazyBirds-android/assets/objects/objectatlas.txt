@@ -1,0 +1,88 @@
+objectatlas.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 157, 79
+  orig: 157, 79
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 161, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 1
+coin
+  rotate: false
+  xy: 233, 2
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: 2
+coin
+  rotate: false
+  xy: 285, 2
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: 3
+coin
+  rotate: false
+  xy: 307, 2
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: 4
+exp
+  rotate: false
+  xy: 359, 2
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 1
+exp
+  rotate: false
+  xy: 807, 2
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 2
+exp
+  rotate: false
+  xy: 2, 381
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 3
+exp
+  rotate: false
+  xy: 450, 381
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 4
+exp
+  rotate: false
+  xy: 898, 381
+  size: 446, 377
+  orig: 446, 377
+  offset: 0, 0
+  index: 5
+money
+  rotate: false
+  xy: 2, 760
+  size: 380, 184
+  orig: 380, 184
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 384, 760
+  size: 407, 156
+  orig: 407, 156
+  offset: 0, 0
+  index: -1
